@@ -1,4 +1,4 @@
-num = int (input ("Enter any number to test whether it is odd or even: " )
+num = int (input ("Enter any number: " )
 
 if (num % 2) == 0:
 
@@ -6,4 +6,4 @@ if (num % 2) == 0:
 
 else:
 
-              print (“The provided number is odd”)
+              print (“The number is odd”)
